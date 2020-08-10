@@ -1,2 +1,3 @@
 Adding some text here 
-Adding new line
+Adding new 
+Delete word "line" in previous line
